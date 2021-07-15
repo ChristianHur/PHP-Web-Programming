@@ -5,6 +5,4 @@ Welcome to PHP Web Programming!
 [Gateway Technical College](https://gtc.edu)
 
 ## Course Description
-This course prepares the student to develop advanced PHP and MySQL web applications. Students will learn
-advanced techniques for session management, validation, and authentication. Advanced web application features such as shopping
-carts, content management using various platforms, web forums and connecting to web services are discussed.
+This hands-on PHP Web Programming course provides the knowledge necessary to design and develop dynamic, database-driven web pages. Students will learn how to write and debug PHP code, how to effectively use many of its powerful features, and how to design and build their own PHP web applications. Students will design and create a Web Database using the popular MySQL DBMS to function as a backend database for their PHP website.
