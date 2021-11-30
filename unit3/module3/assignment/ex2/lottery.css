@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 300px
+}
+
+button {
+    padding: 2px;
+    font-size: 1.2em;
+    margin: 10px;
+}
+
+hr {
+    width: 50%
+}
+
+label {
+    display: inline-block;
+    margin: 5px;
+}
+
+input {width:60px; padding: 2px;}
+
+#prizes {border: 1px solid #ccc; width:300px; margin: 10px auto}
